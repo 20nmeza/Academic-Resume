@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Academic Resume 
 
-You can use the [editor on GitHub](https://github.com/20nmeza/Academic-Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Students in Cybersecurity learn to design and implement computer programs and to apply programming tools and solve complex problems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Students must partcipate in various other classes in order for them to attend Cybersecurity.
 
-### Markdown
+### Classes involving Computer Science
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+South Plainfield High School offers students other classes involving Computer Science
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Intro to Computer Science 
+- Open to students in grades 9-12
+- Full-year course
+- Block-based programming 
+- Text-based programming
+- Create apps
+- Develop websites
 
-- Bulleted
-- List
+AP Computer Science
+- Open to students in grades 10-12
+- Required: Introduction to Comp Sci
+- Learn to design and implement computer programs 
+- Learn to apply programming tools and solve complex problems 
+- Learn Java
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details visit [South Plainfield High School](http://spboehs.ss13.sharpschool.com/).
 
-### Jekyll Themes
+### Cybersecurity Class 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/20nmeza/Academic-Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This class is only open to students in grades 10-12, it is a full-year course. Where students learn how to detect intrusions & respond to attacks and examine your own digital footprint and defend your data. 
 
-### Support or Contact
+Students also work in the state of the art Computer Labs
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Other Pages 
+
+To Learn More About [Cyber Security.](https://20nmeza.github.io/Welcome-to-Cyber-Security-/) 
+Got Any Question [Contact Us](https://github.com/20nmeza/Nilyn-Meza/settings)
+or [Go Back to the Main Page.](https://20nmeza.github.io/Nilyn-Meza/)
